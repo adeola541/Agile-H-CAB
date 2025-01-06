@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "msjsdiag.vscode-react-native",
+    "byCedric.vscode-expo",
+    "davidNovakInfo.android-ios-emulator"
+  ]
+}
